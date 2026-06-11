@@ -1,0 +1,27 @@
+{
+  "name": "ej.-opcional-sprint-11---crud-mongoose",
+  "version": "1.0.0",
+  "description": "1. Forkea el repositorio  \r 2. Clónalo en tu ordenador:\r    ```bash\r    git clone URL_GITHUB\r    ```\r 3. Abre el proyecto en Visual Studio Code (o tu IDE preferido)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martabosquet/CRUD-mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Martabosquet/CRUD-mongoose/issues"
+  },
+  "homepage": "https://github.com/Martabosquet/CRUD-mongoose#readme",
+  "dependencies": {
+    "dotenv": "17.4.2",
+    "express": "5.2.1",
+    "mongoose": "9.7.0"
+  }
+}
